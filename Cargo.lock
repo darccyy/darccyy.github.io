@@ -822,7 +822,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "my-unreact-app"
+name = "my-website"
 version = "0.1.0"
 dependencies = [
  "unreact",
